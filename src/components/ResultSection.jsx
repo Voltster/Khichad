@@ -2,6 +2,7 @@ import React from "react";
 import Card from "./Card";
 import image1 from "../assets/img1.png"
 import image2 from "../assets/img2.png"
+import image4 from "../assets/Img4.png"
 
 
 const cardDetails = [
@@ -27,7 +28,7 @@ const cardDetails = [
       url: `https://unsplash.com/`,
     },
     {
-      img:`${image1}`,
+      img:`${image4}`,
       title: "Informatica MDM",
       decription:
       "Appian is a software company that automates business processes. The Appian AI Process Platform includes everything you need to design, automate, and optimize even the most complex processes, from start to finish. ",

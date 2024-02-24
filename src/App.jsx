@@ -9,7 +9,7 @@ import WhyKhichad from './components/WhyKhichad'
 function App() {
 
   return (
-    <div className='w-[100vw] h-screen '>
+    <div className='w-[100vw] h-screen overflow-x-hidden'>
     <Navbar/>
     <Home/>
     <ResultSection/>
